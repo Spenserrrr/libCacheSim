@@ -15,10 +15,9 @@ example/cacheSimulatorC/cmake-build-debug
 fig/
 result/
 data_large/
-# Trace datasets (keep locally for benchmarks; do not push)
+# Downloaded traces (keep locally; not from upstream)
 data/traces/
 data/twitter_cluster52*
-data/cloudPhysicsIO*
 # Chaos
 sftp-config.json
 # Clangd cache
